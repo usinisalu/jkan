@@ -21,6 +21,6 @@ date_modified: 2019/04/16
 organization: Eesti Rahvusraamatukogu
 maintainer_name: Urmas Sinisalu
 maintainer_email: urmas@nlib.ee
-maintainer_phone: ''
+maintainer_phone: '6307222'
 
 ---
